@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Asiegbu Stanley"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A flexible and unobtrusive javascript form validator",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "keywords": [
+    "form",
+    "validator",
+    "webpack",
+    "es6",
+    "babel"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "stans-validator-bee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "url": "github.com/stan-asiegbu/stans-validator-bee",
+  "version": "1.0.1"
+}
